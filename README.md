@@ -15,7 +15,12 @@ python3 capture.py
 ```
 
 # Captcha-Bypass-Pro 🛡️
-![Project Demo](https://drive.google.com/file/d/1VSzlNdDinaIPWsXWBH7Wal7tt_PNIcih/view?usp=sharing)
+<div align="center">
+  <img src="https://drive.google.com/file/d/1VSzlNdDinaIPWsXWBH7Wal7tt_PNIcih/view?usp=drive_link" alt="Brute Force Demo" width="600">
+  <p align="center">
+    <b>Figure 1:</b> Automated CAPTCHA solving and authentication bypass.
+  </p>
+</div>
 
 ## 📖 Overview
 Custom Python automation to bypass math-based CAPTCHAs...
