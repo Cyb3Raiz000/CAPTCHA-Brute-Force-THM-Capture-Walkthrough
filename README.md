@@ -16,7 +16,7 @@ python3 capture.py
 
 # Captcha-Bypass-Pro 🛡️
 <div align="center">
-  <img src="https://drive.google.com/file/d/1VSzlNdDinaIPWsXWBH7Wal7tt_PNIcih/view?usp=drive_link" alt="Brute Force Demo" width="600">
+  <img src="assets/2026-03-0507-58-59-ezgif.com-video-to-gif-converter.gif" alt="Brute Force Demo" width="600">
   <p align="center">
     <b>Figure 1:</b> Automated CAPTCHA solving and authentication bypass.
   </p>
