@@ -23,7 +23,7 @@ python3 capture.py
 </div>
 
 <div align="center">
-  <img src="f" alt="SUCCESS Solve The Room Demo" width="600">
+  <img src="assets/Screenshot 2026-03-05 080837.png" alt="SUCCESS Solve The Room Demo" width="600">
   <p align="center">
     <b>Figure 2:</b> Automated SUCCESS Solve The Room with Flag.txt.
   </p>
