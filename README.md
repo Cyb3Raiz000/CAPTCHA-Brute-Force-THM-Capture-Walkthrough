@@ -22,5 +22,12 @@ python3 capture.py
   </p>
 </div>
 
+<div align="center">
+  <img src="f" alt="SUCCESS Solve The Room Demo" width="600">
+  <p align="center">
+    <b>Figure 2:</b> Automated SUCCESS Solve The Room with Flag.txt.
+  </p>
+</div>
+
 ## 📖 Overview
 Custom Python automation to bypass math-based CAPTCHAs...
