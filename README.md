@@ -18,7 +18,7 @@ python3 capture.py
 <div align="center">
   <img src="assets/2026-03-0507-58-59-ezgif.com-video-to-gif-converter.gif" alt="Brute Force Demo" width="600">
   <p align="center">
-    <b>Figure 1:</b> Automated CAPTCHA solving and authentication bypass.
+    <b>Figure 1:</b> Automated Configure MACHIN-IP.
   </p>
 </div>
 
