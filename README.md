@@ -16,14 +16,14 @@ python3 capture.py
 
 # Captcha-Bypass-Pro 🛡️
 <div align="center">
-  <img src="assets/2026-03-0507-58-59-ezgif.com-video-to-gif-converter.gif" alt="Brute Force Demo" width="600">
+  <img src="assets/2026-03-0507-58-59-ezgif.com-video-to-gif-converter.gif" alt="Brute Force Demo" width="800">
   <p align="center">
     <b>Figure 1:</b> Automated Configure MACHIN-IP.
   </p>
 </div>
 
 <div align="center">
-  <img src="assets/Screenshot 2026-03-05 080837.png" alt="SUCCESS Solve The Room Demo" width="600">
+  <img src="assets/Screenshot 2026-03-05 080837.png" alt="SUCCESS Solve The Room Demo" width="800">
   <p align="center">
     <b>Figure 2:</b> Automated SUCCESS Solve The Room with Flag.txt.
   </p>
